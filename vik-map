@@ -1,3 +1,10 @@
 import geopandas as gpd
 import folium
 from folium.features import DivIcon
+import numpy as np
+import pandas as pd
+
+x = 5
+y = 7
+z = x ** y
+print(z)
